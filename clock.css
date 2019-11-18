@@ -1,0 +1,48 @@
+body{
+	background: radial-gradient(#282830 15%, transparent 16%) 0 0,
+				radial-gradient(#282830 15%, transparent 16%) 8px 8px,
+				radial-gradient(rgba(255, 255, 255, 0.1) 10%, transparent 20%) 8px 9px;
+	background-color: #282828;
+	background-size: 16px 16px;
+
+}
+#clockHead{
+	font-size: 2pc;
+	color: #e6e6e6;
+	text-shadow: 2px 2px 3px #282828;
+	text-align: center;
+	text-decoration: overline underline;
+}
+table{
+	margin-left: 20%
+}
+.hrow {
+	color: #e6e6e6;
+}
+
+.hrow td {
+	width: auto;
+	padding-top: 60px;
+	padding-right: 65px;
+	font-size: 25px;
+	margin-right: 9px;
+	text-decoration: overline underline;
+	font-family: Helvetica, sans-serif;
+	text-shadow: 3px 3px 4px #282828;
+	text-decoration-style: all;
+	
+}
+
+
+.theTime{
+	color: #e6e6e6;
+	padding-right:40px;
+	margin-top: 70px;
+	font-size: 20px;
+	padding-bottom: 9px;
+	font-family:  Verdana, sans-serif;
+	text-shadow: 1px 1px 5px #0000;
+
+
+
+}
